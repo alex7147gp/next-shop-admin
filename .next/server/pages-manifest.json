@@ -1,0 +1,12 @@
+{
+  "/dashboard/edit/[id]": "pages/dashboard/edit/[id].html",
+  "/dashboard": "pages/dashboard.html",
+  "/_app": "pages/_app.js",
+  "/": "pages/index.html",
+  "/dashboard/products": "pages/dashboard/products.html",
+  "/login": "pages/login.html",
+  "/api/hello": "pages/api/hello.js",
+  "/_error": "pages/_error.js",
+  "/_document": "pages/_document.js",
+  "/404": "pages/404.html"
+}
